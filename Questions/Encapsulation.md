@@ -55,3 +55,16 @@ Create a Java program using encapsulation to implement a `Student` class with pr
 
 **Supporting Class:**  
 [Student.java](../src/Encapsulation/Student.java)
+
+---
+
+## 5. Temperature Conversion – Encapsulation
+
+**Question:**  
+Create a Java program using encapsulation to implement a `Temperature` class with a private Celsius temperature variable. Provide a setter method to assign the Celsius temperature and getter methods to display the temperature in Celsius and convert it to Fahrenheit using the formula `(Celsius × 9/5) + 32`. Create a main class that accepts the Celsius temperature from the user and displays both Celsius and Fahrenheit values.
+
+**Solution:**  
+[View Solution →](../src/Encapsulation/TemperatureMain.java)
+
+**Supporting Class:**  
+[Temperature.java](../src/Encapsulation/Temperature.java)
