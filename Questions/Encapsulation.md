@@ -68,3 +68,16 @@ Create a Java program using encapsulation to implement a `Temperature` class wit
 
 **Supporting Class:**  
 [Temperature.java](../src/Encapsulation/Temperature.java)
+
+---
+
+## 6. Patient Management – Encapsulation
+
+**Question:**  
+Create a Java program using encapsulation to implement a `Patient` class with private patient ID, name, age, and disease fields. Provide setter and getter methods for each property, ensuring that the age is accepted only when it is greater than zero. Also create a `display()` method to print all patient details. In the main class, create a `Patient` object, accept the patient's ID, name, age, and disease from the user using `Scanner`, set the values through setter methods, and display the patient's details.
+
+**Solution:**  
+[View Solution →](../src/Encapsulation/Patientmain.java)
+
+**Supporting Class:**  
+[Patient.java](../src/Encapsulation/Patient.java)
